@@ -37,7 +37,7 @@
 		"sistema/nucleo/APBootstrap.php"
 	],
 	"require": {
-		"php": ">=5.4.0",
+		"php": ">=5.5",
                 "propel/propel": "2.0.0-alpha8",
                 "swiftmailer/swiftmailer": "5.*",
                 "setasign/fpdf": "1.*",
